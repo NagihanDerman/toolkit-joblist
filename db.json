@@ -1,0 +1,103 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "In Progress",
+      "type": "Full-Time",
+      "id": "96c452ae-88ce-431c-8a7d-144ed6adfc42",
+      "date": 1712643002478
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "İzmir/Bayraklı",
+      "status": "In Progress",
+      "type": "Interview",
+      "id": "96c41ae-88ce-421c-8a7d-134ed6adfc42",
+      "date": 1712643002478
+    },
+    {
+      "id": "322a69fa-d536-407d-83cd-8e3bd30f76a3",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Interview",
+      "type": "Part-Time",
+      "date": 1714680517533
+    },
+    {
+      "id": "6df79445-7c26-44ae-a84d-58573353b47c",
+      "position": "Data Analyst",
+      "company": "Coca Cola",
+      "location": "İzmir/Bayraklı",
+      "status": "In Progress",
+      "type": "Part-Time",
+      "date": 1715102448129
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Amazon",
+      "location": "İzmir/Bayraklı",
+      "status": "Interview",
+      "type": "Full-Time",
+      "id": "3ca15fb5-cff8-464d-bb6e-bc244d22edfa",
+      "date": 1715104409300
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Zorro",
+      "location": "Menlo Park",
+      "status": "Interview",
+      "type": "Full-Time",
+      "id": "46b7da48-67af-45c6-9dfe-5d327d24cab8",
+      "date": 1715104431342
+    },
+    {
+      "id": "922cfb6d-c1ce-4ec9-9140-249c7b3d73fc",
+      "position": "Data Analyst",
+      "company": "Zorro",
+      "location": "Redmond",
+      "status": "In Progress",
+      "type": "Full-Time",
+      "date": 1721654927481
+    },
+    {
+      "id": "ccff5a00-0ede-46fd-b620-289905ddf2cb",
+      "position": "Data Scientist",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "In Progress",
+      "type": "Full-Time",
+      "date": 1721655140276
+    },
+    {
+      "id": "538fcd2d-ace6-4d02-a030-b0e53f6db1b6",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": " In Progress",
+      "type": "Full-Time",
+      "date": 1721656649296
+    },
+    {
+      "id": "b8c2792f-c146-4f4c-85b8-fb5e46dce148",
+      "position": "Frontend Developer",
+      "company": "Amazon",
+      "location": "Menlo Park",
+      "status": "Interview",
+      "type": "Full-Time",
+      "date": 1721657248119
+    },
+    {
+      "id": "6e6a89b1-1b16-4320-ba9d-665fd86276ef",
+      "position": "Frontend Developer",
+      "company": "Zorro",
+      "location": "Seattle",
+      "status": "Interview",
+      "type": "Full-Time",
+      "date": 1721657301931
+    }
+  ]
+}
