@@ -26,4 +26,4 @@ This project allows users to list and filter their job application statuses, add
 
 ## GIF
 
-<img src="" />
+<img src="./public/tollkitjoblist.gif" />
