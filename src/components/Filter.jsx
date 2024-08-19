@@ -16,7 +16,7 @@ const Filter = () => {
   const dispatch = useDispatch();
 
   //*  DEBOUNCE
-  // Her tuş vuruşunda filtreleme yapmak hem client'ın cihazını hemde sunucuyu gereksiz yorar. Bu yüzden kullanıcın bir vutona basmasını gerektirmeyen inputlarda debounce yöntemi kullanılarak her tur vuruşunda ddeğiş kullanıcı yazma işlemeni sonlandırınca ilgili fonksiyonu çağırırız. Ardışık olarak gerçekleşen fonksiyon çağırma işlemlerinde fonksiyonun çağrıldığı görmezden gelir ancak belirli zaman aşımı olduğunda fonksiyonu çalıştırır
+
   useEffect(() => {
     if (text === undefined) return;
 
